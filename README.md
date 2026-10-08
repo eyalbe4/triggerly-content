@@ -13,7 +13,6 @@ Published with GitHub Pages at https://eyalbe4.github.io/triggerly-content/
 - [RSI alerts: overbought and oversold notifications that don't spam you](https://eyalbe4.github.io/triggerly-content/rsi-alerts/)
 - [Earnings season: the stock alerts to set before the report](https://eyalbe4.github.io/triggerly-content/earnings-season-stock-alerts/)
 - [How to get stock alerts in Telegram, for free](https://eyalbe4.github.io/triggerly-content/stock-alerts-telegram/)
-- [Trailing stop alerts: protect gains without watching the chart](https://eyalbe4.github.io/triggerly-content/trailing-stop-alerts/)
 
 ## Images
 
