@@ -1,0 +1,103 @@
+{
+  "generated": "2026-10-08",
+  "size": "1200x675 JPEG q88",
+  "note": "Synthetic tickers only (SPCX, KLMN, ORBT, NOVA, QBIT, ZENT, LUMA, ACME, TRVX, VYRA...). No real logos, no performance claims. lp-01 is a copy of assets/x-promo-2-1007.jpg. Generator: ../src/run.py (python run.py <ids>) with the venv at /workspace/.venv-img.",
+  "images": [
+    {
+      "file": "lp-01.jpg",
+      "description": "Purple candlestick chart with a yellow 50-day SMA line, crossover point lit up, a Triggerly notification 'SPCX crossed above its SMA', and the app's SMA Alert setup screen on a phone",
+      "best_fit": "moving-average (SMA) crossover alert; how to set up an SMA alert in the app",
+      "used": false
+    },
+    {
+      "file": "lp-02.jpg",
+      "description": "Cream/orange candlestick chart breaking up through a dashed 182.50 price level, with a bell pin at the cross and the notification 'KLMN crossed your 182.50 level'",
+      "best_fit": "price-level alert; tip: mark your levels once and let the app watch them",
+      "used": false
+    },
+    {
+      "file": "lp-03.jpg",
+      "description": "Dark emerald price line over volume bars with one hot-pink bar labeled '3.4x avg volume' above a dashed 20-day average",
+      "best_fit": "volume spike alert; tip: unusual volume often shows up before the big move",
+      "used": false
+    },
+    {
+      "file": "lp-04.jpg",
+      "description": "Sunset-gradient gauge from -10% to +10% with the needle at +5.3% and bell markers at +/-5%, plus a card with an intraday line crossing a 5% threshold",
+      "best_fit": "percent-move alert (daily % change threshold)",
+      "used": false
+    },
+    {
+      "file": "lp-05.jpg",
+      "description": "Phone lock screen (pink-purple wallpaper, 9:31) with four stacked Triggerly notifications: price, volume, earnings, SMA, on a teal bokeh background; 'Free \u00b7 No ads'",
+      "best_fit": "general/overview post: all alert types, push notifications, free with no ads",
+      "used": false
+    },
+    {
+      "file": "lp-06.jpg",
+      "description": "Dark watchlist heatmap/treemap of synthetic tickers in red/green tiles; the ACME +6.1% tile is outlined in yellow with a bell badge",
+      "best_fit": "watchlist alerts/big movers; tip: let the tile that moves come to you instead of scanning a heatmap",
+      "used": false
+    },
+    {
+      "file": "lp-07.jpg",
+      "description": "Blue October 2026 earnings calendar with colored ticker chips, today (Oct 8) highlighted, ZENT on Oct 9 flagged, a big yellow bell and the notification 'ZENT reports tomorrow'",
+      "best_fit": "earnings alert; tip: know report dates for your watchlist ahead of time",
+      "used": false
+    },
+    {
+      "file": "lp-08.jpg",
+      "description": "Flat-illustration desk scene: monitor with a candle chart and dashed level line, 'set alerts!' sticky note, mug, plant, window, and a buzzing phone with 'TRVX hit 34.00'",
+      "best_fit": "lifestyle/time-saving post: stop staring at charts, get pinged instead (price alert)",
+      "used": false
+    },
+    {
+      "file": "lp-09.jpg",
+      "description": "Navy scene with a central glowing bell ('NOVA crossed $48.00') branching to three cards: Push, Email, Telegram",
+      "best_fit": "delivery channels: push, email and Telegram notifications",
+      "used": false
+    },
+    {
+      "file": "lp-10.jpg",
+      "description": "Neon-purple candlestick chart with cyan support and pink resistance zones plus a dashed trendline, next to a glass 'AI analysis \u00b7 VYRA' panel (trend, support, resistance, volume)",
+      "best_fit": "AI analysis feature; tip: support/resistance context behind an alert",
+      "used": false
+    },
+    {
+      "file": "lp-11.jpg",
+      "description": "Light mint area chart with a blue 50-day and gold 200-day SMA crossing, starred and labeled 'Golden cross'",
+      "best_fit": "golden cross / 50-200 moving-average crossover alert; education on MA crossovers",
+      "used": false
+    },
+    {
+      "file": "lp-12.jpg",
+      "description": "Coral gradient with a tilted phone showing a Triggerly watchlist (sparklines, % chips, bell on/off per stock), faint big candles behind; 'Free \u00b7 No ads' pill",
+      "best_fit": "watchlist + per-stock alert toggles; free/no-ads positioning",
+      "used": false
+    },
+    {
+      "file": "lp-13.jpg",
+      "description": "Black-and-yellow chart: price chops inside a shaded sideways range, then breaks a dashed resistance at 39.20 with a starburst bell, plus a dark notification 'TRVX broke above 39.20'",
+      "best_fit": "breakout / price-level alert above resistance; tip: alert just above the top of the range",
+      "used": false
+    },
+    {
+      "file": "lp-14.jpg",
+      "description": "Slate multi-panel dashboard with four mini charts: NOVA 1D candles, ZENT 1W with SMA, QBIT 1M volume spike, ORBT 1Y area, each with a glowing alert point; header '4 alerts active'",
+      "best_fit": "multiple alert types at once / multi-timeframe monitoring; feature-roundup post",
+      "used": false
+    },
+    {
+      "file": "lp-15.jpg",
+      "description": "Green gradient with a round smartwatch face showing the bell, 'NOVA crossed $48.00' and a sparkline, plus floating chips '+2.4%', 'SMA 50', 'Vol 3x'",
+      "best_fit": "push notifications that reach you anywhere (mirrored to your watch); being away from the screen",
+      "used": false
+    },
+    {
+      "file": "lp-16.jpg",
+      "description": "Dusk city skyline where the buildings are candlesticks (green/red tops, wick antennas, lit windows) reflected in water, crescent moon, and the notification 'ZENT hit your 52.00 level'",
+      "best_fit": "price-level alert while you're away; evening/after-work post, 'the market keeps moving'",
+      "used": false
+    }
+  ]
+}
