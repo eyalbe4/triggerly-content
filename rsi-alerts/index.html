@@ -1,63 +1,38 @@
 <!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>RSI Alerts: Get Notified When a Stock Is Overbought or Oversold | Triggerly</title>
-<meta name="description" content="How 14-day RSI alerts work on daily closes, why 70/30 isn&#x27;t always right, how to set your own levels, and how to combine RSI with price targets or Volume Spike in a Combined Alert.">
-<link rel="canonical" href="https://eyalbe4.github.io/triggerly-content/rsi-alerts/">
-<meta property="og:type" content="article"><meta property="og:title" content="RSI Alerts: Get Notified When a Stock Is Overbought or Oversold | Triggerly">
-<meta property="og:description" content="How 14-day RSI alerts work on daily closes, why 70/30 isn&#x27;t always right, how to set your own levels, and how to combine RSI with price targets or Volume Spike in a Combined Alert."><meta property="og:url" content="https://eyalbe4.github.io/triggerly-content/rsi-alerts/">
-<meta property="og:image" content="https://eyalbe4.github.io/triggerly-content/assets/app/alert-types.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://eyalbe4.github.io/triggerly-content/assets/app/alert-types.jpg">
-<link rel="icon" href="https://triggerly-app.com/favicon-48.png">
-<link rel="stylesheet" href="/triggerly-content/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "RSI Alerts: Get Notified When a Stock Is Overbought or Oversold", "description": "How 14-day RSI alerts work on daily closes, why 70/30 isn't always right, how to set your own levels, and how to combine RSI with price targets or Volume Spike in a Combined Alert.", "image": "https://eyalbe4.github.io/triggerly-content/assets/app/alert-types.jpg", "datePublished": "2026-10-08", "dateModified": "2026-10-08", "author": {"@type": "Organization", "name": "Triggerly"}, "publisher": {"@type": "Organization", "name": "Triggerly", "url": "https://triggerly-app.com/"}, "mainEntityOfPage": "https://eyalbe4.github.io/triggerly-content/rsi-alerts/"}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What RSI level should I set an alert at?", "acceptedAnswer": {"@type": "Answer", "text": "70 and 30 are common defaults. Volatile stocks often work better with 80 and 20, and slow-moving stocks with 60 and 40."}}, {"@type": "Question", "name": "Is RSI overbought a sell signal?", "acceptedAnswer": {"@type": "Answer", "text": "Not by itself. Stocks can stay overbought for a long time in strong trends. Treat an RSI alert as a reason to review the stock, not as an instruction."}}, {"@type": "Question", "name": "Can I get RSI alerts for free on Android?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Triggerly offers custom RSI levels on a fixed 14-day period for free. Turn on push, email, or Telegram in Settings → Notifications; those channels apply to every alert."}}]}</script>
-</head><body>
-<header class="site"><div class="wrap"><a href="/triggerly-content/"><img src="/triggerly-content/assets/app/logo.webp" alt="Triggerly logo" width="36" height="36">Triggerly Guides</a><nav><a href="/triggerly-content/">All guides</a><a href="https://triggerly-app.com/">triggerly-app.com</a></nav></div></header>
-<main><div class="wrap">
-<article>
-<p class="meta">Updated 2026-10-08 &middot; Triggerly Guides</p>
-<h1>RSI alerts: overbought and oversold notifications that don&#x27;t spam you</h1>
-<img class="hero" src="/triggerly-content/x/lp-14.jpg" alt="Several stock charts with indicator panels and alert markers on a phone and laptop" width="1200" height="675">
-<figure class="app-shot"><img src="/triggerly-content/assets/app/alert-types.jpg" alt="Triggerly alert type picker showing price alerts, technical indicators, extremes, and volume alerts" width="1080" height="1920" loading="lazy"></figure>
-
-<p class="lead">The Relative Strength Index (RSI) measures how strong recent gains are compared with recent losses, on a scale from 0 to 100. Triggerly uses a fixed 14-day RSI on daily closes. Readings above 70 are often called overbought and below 30 oversold. An <strong>RSI alert</strong> pings you when that 14-day reading crosses a level you set, so you can review the stock instead of scanning indicators by hand. Because it uses completed daily closes, the cross is based on those closes rather than an intraday RSI.</p>
-
-<h2>Why 70/30 isn't always the right level</h2>
-<p>In a strong uptrend, a stock can stay above 70 for weeks. In a downtrend, it can sit under 30 and keep falling. Many traders adjust the levels to the stock and the market:</p>
-<ul>
-<li><strong>80/20</strong> for volatile stocks, so only the extremes trigger.</li>
-<li><strong>70/30</strong> as a general default.</li>
-<li><strong>60/40</strong> for steady, slow-moving names.</li>
-</ul>
-<p>Triggerly lets you set your own RSI levels on that fixed 14-day period. You can combine RSI with price targets or Volume Spike in a Combined Alert. The period itself stays 14 days. If you want a momentum cross instead of an RSI level, a <a href="../macd-stock-alerts/">MACD alert</a> watches the signal line or the zero line on completed daily closes.</p>
-
-<h2>Entering vs leaving the zone</h2>
-<p>"RSI crossed above 70" tells you momentum is strong. "RSI dropped back below 70" tells you it may be fading. For oversold setups, many traders care more about RSI climbing back <em>above</em> 30 than about it first dipping below. Set the alert for the moment you'd actually act.</p>
-
-<h2>Pair RSI with something else</h2>
-<p>RSI on its own produces plenty of false starts. A Combined Alert that requires two conditions is usually more useful:</p>
-<ul>
-<li>RSI below 30 <strong>and</strong> price at or above a support level you've marked</li>
-<li>RSI above 70 <strong>and</strong> a <a href="../volume-spike-alerts/">volume spike</a> (a strong move with participation)</li>
-<li>RSI crossing back above 30 <strong>and</strong> price crossing above its <a href="../moving-average-crossover-alerts/">20-day moving average</a></li>
-</ul>
-
-<h2>Set an RSI alert on Android</h2>
-<ol>
-<li>Open <a href="https://play.google.com/store/apps/details?id=com.triggerly.android&utm_source=guides&utm_medium=organic&utm_campaign=levelping_202610&utm_content=rsi-alerts">Triggerly</a> and search the stock.</li>
-<li>Choose the RSI alert and set your own level. The period is fixed at 14 days.</li>
-<li>Optionally combine it with a price or volume condition.</li>
-<li>Make sure push, email, or Telegram is on in Settings → Notifications. Those channels apply to every alert, not just this one.</li>
-</ol>
-<p>When it fires, open Alert Analysis for context on what's driving the move before you decide anything.</p>
-
-<div class="cta cta-with-shot"><div class="cta-copy"><p><strong>Try it free on Android.</strong> Triggerly watches your stocks and pings you by push, email or Telegram when your rule triggers, with AI analysis of why the stock moved. No ads, no in-app purchases.</p>
-<a class="btn" href="https://play.google.com/store/apps/details?id=com.triggerly.android&utm_source=guides&utm_medium=organic&utm_campaign=levelping_202610&utm_content=rsi-alerts" rel="noopener">Get Triggerly on Google Play</a>
-<p class="small">Not investment advice.</p></div>
-<figure class="app-shot"><img src="/triggerly-content/assets/app/alert-analysis.jpg" alt="Alert Analysis screen in Triggerly explaining why a stock moved" width="1080" height="1920" loading="lazy"></figure></div>
-<section class="faq"><h2>FAQ</h2><h3>What RSI level should I set an alert at?</h3><p>70 and 30 are common defaults. Volatile stocks often work better with 80 and 20, and slow-moving stocks with 60 and 40.</p><h3>Is RSI overbought a sell signal?</h3><p>Not by itself. Stocks can stay overbought for a long time in strong trends. Treat an RSI alert as a reason to review the stock, not as an instruction.</p><h3>Can I get RSI alerts for free on Android?</h3><p>Yes. Triggerly offers custom RSI levels on a fixed 14-day period for free. Turn on push, email, or Telegram in Settings → Notifications; those channels apply to every alert.</p></section>
-</article>
-</div></main>
-<footer><div class="wrap"><p>Guides by the Triggerly team. Triggerly is a free Android stock alert app: no ads, no in-app purchases. <a href="https://triggerly-app.com/">Website</a> &middot; <a href="https://triggerly-app.com/site/blog">Blog</a> &middot; <a href="https://triggerly-app.com/site/privacy">Privacy</a></p>
-<p><strong>Not investment advice.</strong> These guides explain how alerts work. They are not recommendations to buy or sell any security.</p></div></footer>
-</body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>This guide moved | Triggerly</title>
+<link rel="canonical" href="https://triggerly-app.com/guides/rsi-alerts">
+<meta http-equiv="refresh" content="0; url=https://triggerly-app.com/guides/rsi-alerts">
+<meta name="robots" content="noindex, follow">
+<script>
+(function () {
+  var dest = "https://triggerly-app.com/guides/rsi-alerts";
+  location.replace(dest + location.search + location.hash);
+})();
+</script>
+<style>
+  html, body {
+    margin: 0;
+    background: #0a0a0a;
+    color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+  }
+  a { color: #00c853; }
+</style>
+</head>
+<body>
+<main>
+<p><a href="https://triggerly-app.com/guides/rsi-alerts">This guide moved to triggerly-app.com</a></p>
+</main>
+</body>
+</html>

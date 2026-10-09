@@ -1,62 +1,38 @@
 <!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Volume Spike Alerts: Get Notified When a Stock Trades 2x-10x Normal Volume | Triggerly</title>
-<meta name="description" content="How volume spike alerts work, what 2x, 3x and 5x the 20-day average volume means, how to choose the multiple, and how to cut false alarms with combined alerts.">
-<link rel="canonical" href="https://eyalbe4.github.io/triggerly-content/volume-spike-alerts/">
-<meta property="og:type" content="article"><meta property="og:title" content="Volume Spike Alerts: Get Notified When a Stock Trades 2x-10x Normal Volume | Triggerly">
-<meta property="og:description" content="How volume spike alerts work, what 2x, 3x and 5x the 20-day average volume means, how to choose the multiple, and how to cut false alarms with combined alerts."><meta property="og:url" content="https://eyalbe4.github.io/triggerly-content/volume-spike-alerts/">
-<meta property="og:image" content="https://eyalbe4.github.io/triggerly-content/assets/app/combined-alert.jpg"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="https://eyalbe4.github.io/triggerly-content/assets/app/combined-alert.jpg">
-<link rel="icon" href="https://triggerly-app.com/favicon-48.png">
-<link rel="stylesheet" href="/triggerly-content/assets/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Volume Spike Alerts: Get Notified When a Stock Trades 2x-10x Normal Volume", "description": "How volume spike alerts work, what 2x, 3x and 5x the 20-day average volume means, how to choose the multiple, and how to cut false alarms with combined alerts.", "image": "https://eyalbe4.github.io/triggerly-content/assets/app/combined-alert.jpg", "datePublished": "2026-10-08", "dateModified": "2026-10-08", "author": {"@type": "Organization", "name": "Triggerly"}, "publisher": {"@type": "Organization", "name": "Triggerly", "url": "https://triggerly-app.com/"}, "mainEntityOfPage": "https://eyalbe4.github.io/triggerly-content/volume-spike-alerts/"}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What is a volume spike alert?", "acceptedAnswer": {"@type": "Answer", "text": "A notification that fires when a stock's trading volume rises well above its normal level, usually measured as a multiple of its average daily volume over the last 20 trading days."}}, {"@type": "Question", "name": "What multiple should I use?", "acceptedAnswer": {"@type": "Answer", "text": "3x is a good default. Use 2x for large, steady stocks and 5x or higher for small or volatile stocks that often trade in bursts."}}, {"@type": "Question", "name": "Can I get volume alerts for free?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Triggerly's Volume Spike and Volume Above alerts are free on Android, with no ads."}}]}</script>
-</head><body>
-<header class="site"><div class="wrap"><a href="/triggerly-content/"><img src="/triggerly-content/assets/app/logo.webp" alt="Triggerly logo" width="36" height="36">Triggerly Guides</a><nav><a href="/triggerly-content/">All guides</a><a href="https://triggerly-app.com/">triggerly-app.com</a></nav></div></header>
-<main><div class="wrap">
-<article>
-<p class="meta">Updated 2026-10-08 &middot; Triggerly Guides</p>
-<h1>Volume spike alerts: know when a stock trades far above normal</h1>
-<img class="hero" src="/triggerly-content/x/lp-03.jpg" alt="Price line over volume bars with one bright bar labeled 3.4x average volume above a dashed 20-day average line" width="1200" height="675">
-<figure class="app-shot"><img src="/triggerly-content/assets/app/combined-alert.jpg" alt="Combined alert setup in Triggerly with EMA, Volume Spike, and percentage change conditions" width="1080" height="1920" loading="lazy"></figure>
-
-<p class="lead">Price tells you where a stock is. Volume tells you how many people care. When a stock suddenly trades several times its normal volume, something is usually going on: news, an earnings reaction, an index change, or a big buyer or seller. A <strong>volume spike alert</strong> tells you the day it happens instead of the day after.</p>
-
-<h2>What "3x average volume" actually means</h2>
-<p>Most volume spike alerts compare today's volume with the stock's average daily volume over a lookback window, often 20 trading days. If a stock normally trades 2 million shares a day and today it has traded 6 million, it's at 3x. In Triggerly, the Volume Spike alert fires when volume exceeds the 20-day average by the multiple you choose: 2x, 3x, 5x or 10x.</p>
-
-<h2>Choosing the multiple</h2>
-<ul>
-<li><strong>2x:</strong> sensitive. Good for large, steady stocks where even double volume is unusual. Expect more alerts.</li>
-<li><strong>3x:</strong> a sensible default for most watchlists.</li>
-<li><strong>5x:</strong> rare, meaningful events. Good for stocks you own but don't trade often.</li>
-<li><strong>10x:</strong> very rare. Usually big news, a takeover, or a small stock getting discovered.</li>
-</ul>
-<p>Small, thinly traded stocks hit 2x all the time, so use a higher multiple there. For mega-caps, 2x is already a story.</p>
-
-<h2>Volume Spike vs Volume Above</h2>
-<p>Triggerly has two volume alerts. <strong>Volume Spike</strong> is relative: a multiple of the 20-day average, so it adapts to each stock. <strong>Volume Above</strong> is absolute: a fixed share count you pick. Relative works better across a whole watchlist. Absolute is handy when you know the exact level that matters for one stock.</p>
-
-<h2>Cut false alarms with a combined alert</h2>
-<p>Heavy volume on a down day and heavy volume on a breakout mean different things. Combined Alerts let you require several conditions at once, for example:</p>
-<ul>
-<li>Volume Spike 3x <strong>and</strong> price above your breakout level</li>
-<li>Volume Spike 3x <strong>and</strong> a percent move of at least 4% from the prior close</li>
-<li>Volume Spike 2x <strong>and</strong> price crossing above the 50-day moving average</li>
-<li>Volume Spike 3x <strong>and</strong> a <a href="../52-week-high-low-alerts/">new 52-week high</a></li>
-</ul>
-<p>You get one notification when the full setup lines up, not three separate pings.</p>
-
-<h2>What to do when it fires</h2>
-<p>Read before you react. In Triggerly, open the triggered alert to see the rule, the trigger price and a chart, then Alert Analysis for AI-written context on what likely caused the move. Unusual volume is a reason to look, not a reason to buy.</p>
-
-<div class="cta cta-with-shot"><div class="cta-copy"><p><strong>Try it free on Android.</strong> Triggerly watches your stocks and pings you by push, email or Telegram when your rule triggers, with AI analysis of why the stock moved. No ads, no in-app purchases.</p>
-<a class="btn" href="https://play.google.com/store/apps/details?id=com.triggerly.android&utm_source=guides&utm_medium=organic&utm_campaign=levelping_202610&utm_content=volume-spike-alerts" rel="noopener">Get Triggerly on Google Play</a>
-<p class="small">Not investment advice.</p></div>
-<figure class="app-shot"><img src="/triggerly-content/assets/app/alert-types.jpg" alt="Triggerly alert type picker showing price alerts, technical indicators, extremes, and volume alerts" width="1080" height="1920" loading="lazy"></figure></div>
-<section class="faq"><h2>FAQ</h2><h3>What is a volume spike alert?</h3><p>A notification that fires when a stock&#x27;s trading volume rises well above its normal level, usually measured as a multiple of its average daily volume over the last 20 trading days.</p><h3>What multiple should I use?</h3><p>3x is a good default. Use 2x for large, steady stocks and 5x or higher for small or volatile stocks that often trade in bursts.</p><h3>Can I get volume alerts for free?</h3><p>Yes. Triggerly&#x27;s Volume Spike and Volume Above alerts are free on Android, with no ads.</p></section>
-</article>
-</div></main>
-<footer><div class="wrap"><p>Guides by the Triggerly team. Triggerly is a free Android stock alert app: no ads, no in-app purchases. <a href="https://triggerly-app.com/">Website</a> &middot; <a href="https://triggerly-app.com/site/blog">Blog</a> &middot; <a href="https://triggerly-app.com/site/privacy">Privacy</a></p>
-<p><strong>Not investment advice.</strong> These guides explain how alerts work. They are not recommendations to buy or sell any security.</p></div></footer>
-</body></html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>This guide moved | Triggerly</title>
+<link rel="canonical" href="https://triggerly-app.com/guides/volume-spike-alerts">
+<meta http-equiv="refresh" content="0; url=https://triggerly-app.com/guides/volume-spike-alerts">
+<meta name="robots" content="noindex, follow">
+<script>
+(function () {
+  var dest = "https://triggerly-app.com/guides/volume-spike-alerts";
+  location.replace(dest + location.search + location.hash);
+})();
+</script>
+<style>
+  html, body {
+    margin: 0;
+    background: #0a0a0a;
+    color: #ffffff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  main {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+  }
+  a { color: #00c853; }
+</style>
+</head>
+<body>
+<main>
+<p><a href="https://triggerly-app.com/guides/volume-spike-alerts">This guide moved to triggerly-app.com</a></p>
+</main>
+</body>
+</html>
