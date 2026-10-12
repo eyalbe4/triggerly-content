@@ -1,7 +1,7 @@
 {
   "generated": "2026-10-08",
   "size": "1200x675 JPEG q88",
-  "note": "Synthetic tickers only (SPCX, KLMN, ORBT, NOVA, QBIT, ZENT, LUMA, ACME, TRVX, VYRA...). No real logos, no performance claims. lp-01 is a copy of assets/x-promo-2-1007.jpg. Generator: ../src/run.py (python run.py <ids>) with the venv at /workspace/.venv-img.",
+  "note": "Synthetic tickers only (SPCX, KLMN, ORBT, NOVA, QBIT, ZENT, LUMA, ACME, TRVX, VYRA...). No real logos, no performance claims. lp-01 is a copy of assets/x-promo-2-1007.jpg. Generator: ../src/run.py (python run.py <ids>) with the venv at /workspace/.venv-img. lp-17 through lp-28 were added 2026-10-12 at the same 1200x675 size.",
   "images": [
     {
       "file": "lp-01.jpg",
@@ -97,6 +97,78 @@
       "file": "lp-16.jpg",
       "description": "Dusk city skyline where the buildings are candlesticks (green/red tops, wick antennas, lit windows) reflected in water, crescent moon, and the notification 'ZENT hit your 52.00 level'",
       "best_fit": "price-level alert while you're away; evening/after-work post, 'the market keeps moving'",
+      "used": false
+    },
+    {
+      "file": "lp-17.jpg",
+      "description": "Sunrise chart of an intraday line for ORBT that starts on the prior close at 80.00 and rallies through a +5% line, with a bell at the cross and the notification 'ORBT is up 5.4% from the prior close'",
+      "best_fit": "percent-move alert versus the prior close",
+      "used": false
+    },
+    {
+      "file": "lp-18.jpg",
+      "description": "Morning chart of KLMN daily candles with a shaded opening gap between Friday's close and Monday's open, a 9:35 ET clock, and the notification 'KLMN opened 3.2% above the prior close'",
+      "best_fit": "opening-gap alert: today's open versus the prior close",
+      "used": false
+    },
+    {
+      "file": "lp-19.jpg",
+      "description": "Desk scene with a monitor showing QBIT candles above volume bars, one amber bar at exactly 3\u00d7 a dashed 20-day average, and the notification 'QBIT volume is 3\u00d7 its 20-day average'",
+      "best_fit": "volume spike alert at 3\u00d7 the 20-day average",
+      "used": false
+    },
+    {
+      "file": "lp-20.jpg",
+      "description": "Sand-colored chart of NOVA candles crossing above a single gold 50-day SMA, with no second average, and the notification 'NOVA crossed above its 50-day SMA'",
+      "best_fit": "moving-average alert when price crosses the 50-day SMA",
+      "used": false
+    },
+    {
+      "file": "lp-21.jpg",
+      "description": "Midnight chart of LUMA with an RSI(14) panel, the line dropping through 30 into the shaded zone, and the notification 'LUMA RSI(14) dropped below 30'",
+      "best_fit": "RSI alert when 14-day RSI drops below 30",
+      "used": false
+    },
+    {
+      "file": "lp-22.jpg",
+      "description": "Charcoal chart of ZENT price above a MACD panel where the MACD line crosses above its signal line, and the notification 'ZENT MACD crossed above its signal line'",
+      "best_fit": "MACD alert when the MACD line crosses its signal line",
+      "used": false
+    },
+    {
+      "file": "lp-23.jpg",
+      "description": "Lilac chart of ACME candles inside Bollinger Bands, the latest wick touching the lower band, and the notification 'ACME touched the lower Bollinger Band'",
+      "best_fit": "Bollinger Band alert when price touches the lower band",
+      "used": false
+    },
+    {
+      "file": "lp-24.jpg",
+      "description": "Navy weekly chart of VYRA, 52 candles, the last one piercing a dashed prior 52-week high, and the notification 'VYRA set a new 52-week high'",
+      "best_fit": "52-week high alert when price sets a new 52-week high",
+      "used": false
+    },
+    {
+      "file": "lp-25.jpg",
+      "description": "Pine chart of TRVX climbing while a trailing-stop line ratchets along 8% under the high, then a candle tags that line, and the notification 'TRVX hit its trailing stop, 8% below the high'",
+      "best_fit": "trailing stop alert held 8% below the high",
+      "used": false
+    },
+    {
+      "file": "lp-26.jpg",
+      "description": "Glacier chart of SPCX falling while a trailing buy-stop line ratchets along 5% above the low, then price crosses up through it, and the notification 'SPCX crossed its trailing buy stop, 5% above the low'",
+      "best_fit": "trailing buy stop alert held 5% above the low",
+      "used": false
+    },
+    {
+      "file": "lp-27.jpg",
+      "description": "Combined-alert scene for NOVA: price falling through 48.00 and RSI(14) dropping below 30, both checked and joined by an AND chip, notification 'NOVA is below 48.00 and RSI is below 30'",
+      "best_fit": "combined alert when price is below a level and RSI is below 30",
+      "used": false
+    },
+    {
+      "file": "lp-28.jpg",
+      "description": "Warm desk with a phone showing a QBIT chart and the Triggerly card titled 'Why it moved': about 4% below its 52-week high, below its 50-day average, volume above its 20-day average",
+      "best_fit": "AI analysis card explaining why a stock moved, shown on a phone",
       "used": false
     }
   ]
