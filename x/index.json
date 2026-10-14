@@ -201,6 +201,78 @@
       "description": "Warm desk with a phone showing a QBIT chart and the Triggerly card titled 'Why it moved': about 4% below its 52-week high, below its 50-day average, volume above its 20-day average",
       "best_fit": "AI analysis card explaining why a stock moved, shown on a phone",
       "used": false
+    },
+    {
+      "file": "lp-29.jpg",
+      "description": "Cobalt candlestick chart of ZENT rallying through a dashed 73.40 level, a bell at the cross, and the notification 'ZENT crossed above 73.40'",
+      "best_fit": "price-level alert when price crosses above a set level",
+      "used": false
+    },
+    {
+      "file": "lp-30.jpg",
+      "description": "Warm clay chart of LUMA candles falling through a blue 18.60 level, a bell under the cross, and a side card reading 'LUMA dropped below 18.60'",
+      "best_fit": "price-level alert when price drops below a set level",
+      "used": false
+    },
+    {
+      "file": "lp-31.jpg",
+      "description": "Rose panel with ACME at -4.6% beside an intraday line that starts at the prior close and falls through a -4% mark, bell at the cross, and the line 'ACME is down 4.6% from the prior close'",
+      "best_fit": "percent-move alert when price drops versus the prior close",
+      "used": false
+    },
+    {
+      "file": "lp-32.jpg",
+      "description": "Dusk chart of VYRA daily candles with a shaded gap between Friday's close and Monday's lower open, a 9:35 ET clock, and the notification 'VYRA opened 2.9% below the prior close'",
+      "best_fit": "opening-gap alert when today's open gaps down from the prior close",
+      "used": false
+    },
+    {
+      "file": "lp-33.jpg",
+      "description": "Walnut desk with a tablet showing SPCX price above volume bars, one gold bar at 3× a dashed 20-day average, and the notification 'SPCX volume is 3× its 20-day average'",
+      "best_fit": "volume spike alert at 3× the 20-day average",
+      "used": false
+    },
+    {
+      "file": "lp-34.jpg",
+      "description": "Pine chart of ORBT candles crossing below a single amber 200-day SMA, with no second average, and the notification 'ORBT crossed below its 200-day SMA'",
+      "best_fit": "moving-average alert when price crosses below the 200-day SMA",
+      "used": false
+    },
+    {
+      "file": "lp-35.jpg",
+      "description": "Apricot chart of KLMN with the RSI(14) panel on top, the line rising through 70 into the shaded overbought zone, and the notification 'KLMN RSI(14) rose above 70'",
+      "best_fit": "RSI alert when 14-day RSI rises above 70",
+      "used": false
+    },
+    {
+      "file": "lp-36.jpg",
+      "description": "Forest chart of NOVA price above a MACD panel where the MACD line crosses below its signal line, and the notification 'NOVA MACD crossed below its signal line'",
+      "best_fit": "MACD alert when the MACD line crosses below its signal line",
+      "used": false
+    },
+    {
+      "file": "lp-37.jpg",
+      "description": "Aqua chart of QBIT candles inside Bollinger Bands, the latest wick touching the upper band, a zoom of the last 10 sessions, and the line 'QBIT touched the upper Bollinger Band'",
+      "best_fit": "Bollinger Band alert when price touches the upper band",
+      "used": false
+    },
+    {
+      "file": "lp-38.jpg",
+      "description": "Ice-blue weekly chart of TRVX, 52 candles, the last one piercing a dashed prior 52-week low, and a side panel reading 'TRVX set a new 52-week low'",
+      "best_fit": "52-week low alert when price sets a new 52-week low",
+      "used": false
+    },
+    {
+      "file": "lp-39.jpg",
+      "description": "Teal bokeh desk with a phone lock screen at 10:14 and one Triggerly notification, 'ACME hit its trailing stop, 10% below the high'",
+      "best_fit": "trailing stop alert held 10% below the high, on a phone lock screen",
+      "used": false
+    },
+    {
+      "file": "lp-40.jpg",
+      "description": "Linen desk with a phone open to a Telegram chat from Triggerly, the message 'NOVA crossed above 64.00'",
+      "best_fit": "Telegram notification of a stock alert on a phone",
+      "used": false
     }
   ]
 }
