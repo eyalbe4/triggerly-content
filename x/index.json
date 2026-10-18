@@ -1,7 +1,7 @@
 {
   "generated": "2026-10-08",
   "size": "1200x675 JPEG q88",
-  "note": "Synthetic tickers only (SPCX, KLMN, ORBT, NOVA, QBIT, ZENT, LUMA, ACME, TRVX, VYRA...). No real logos, no performance claims. lp-01 is a copy of assets/x-promo-2-1007.jpg. Generator: ../src/run.py (python run.py <ids>) with the venv at /workspace/.venv-img. lp-17 through lp-28 were added 2026-10-12 at the same 1200x675 size.",
+  "note": "Synthetic tickers only (SPCX, KLMN, ORBT, NOVA, QBIT, ZENT, LUMA, ACME, TRVX, VYRA...). No real logos, no performance claims. lp-01 is a copy of assets/x-promo-2-1007.jpg. Generator: ../src/run.py (python run.py <ids>) with the venv at /workspace/.venv-img. lp-17 through lp-28 were added 2026-10-12 at the same 1200x675 size. | lp-41..lp-56 added 2026-10-18 (guide-social queue X images)",
   "images": [
     {
       "file": "lp-01.jpg",
@@ -37,7 +37,7 @@
     },
     {
       "file": "lp-05.jpg",
-      "description": "Phone lock screen (pink-purple wallpaper, 9:31) with four stacked Triggerly notifications: price, volume, earnings, SMA, on a teal bokeh background; 'Free \u00b7 No ads'",
+      "description": "Phone lock screen (pink-purple wallpaper, 9:31) with four stacked Triggerly notifications: price, volume, earnings, SMA, on a teal bokeh background; 'Free · No ads'",
       "best_fit": "general/overview post: all alert types, push notifications, free with no ads",
       "used": false,
       "do_not_use": "earnings notification; unsupported"
@@ -76,7 +76,7 @@
     },
     {
       "file": "lp-10.jpg",
-      "description": "Neon-purple candlestick chart with cyan support and pink resistance zones plus a dashed trendline, next to a glass 'AI analysis \u00b7 VYRA' panel (trend, support, resistance, volume)",
+      "description": "Neon-purple candlestick chart with cyan support and pink resistance zones plus a dashed trendline, next to a glass 'AI analysis · VYRA' panel (trend, support, resistance, volume)",
       "best_fit": "AI analysis feature; tip: support/resistance context behind an alert",
       "used": true,
       "used_date": "2026-10-11",
@@ -92,7 +92,7 @@
     },
     {
       "file": "lp-12.jpg",
-      "description": "Coral gradient with a tilted phone showing a Triggerly watchlist (sparklines, % chips, bell on/off per stock), faint big candles behind; 'Free \u00b7 No ads' pill",
+      "description": "Coral gradient with a tilted phone showing a Triggerly watchlist (sparklines, % chips, bell on/off per stock), faint big candles behind; 'Free · No ads' pill",
       "best_fit": "watchlist + per-stock alert toggles; free/no-ads positioning",
       "used": true,
       "used_date": "2026-10-11",
@@ -134,55 +134,72 @@
       "file": "lp-17.jpg",
       "description": "Sunrise chart of an intraday line for ORBT that starts on the prior close at 80.00 and rallies through a +5% line, with a bell at the cross and the notification 'ORBT is up 5.4% from the prior close'",
       "best_fit": "percent-move alert versus the prior close",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-14",
+      "permalink": "https://x.com/LevelPing/status/2110223473276567784"
     },
     {
       "file": "lp-18.jpg",
       "description": "Morning chart of KLMN daily candles with a shaded opening gap between Friday's close and Monday's open, a 9:35 ET clock, and the notification 'KLMN opened 3.2% above the prior close'",
       "best_fit": "opening-gap alert: today's open versus the prior close",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-13",
+      "used_permalink": "https://x.com/LevelPing/status/2109860555041214558"
     },
     {
       "file": "lp-19.jpg",
-      "description": "Desk scene with a monitor showing QBIT candles above volume bars, one amber bar at exactly 3\u00d7 a dashed 20-day average, and the notification 'QBIT volume is 3\u00d7 its 20-day average'",
-      "best_fit": "volume spike alert at 3\u00d7 the 20-day average",
-      "used": false
+      "description": "Desk scene with a monitor showing QBIT candles above volume bars, one amber bar at exactly 3× a dashed 20-day average, and the notification 'QBIT volume is 3× its 20-day average'",
+      "best_fit": "volume spike alert at 3× the 20-day average",
+      "used": true,
+      "used_date": "2026-10-13",
+      "permalink": "https://x.com/LevelPing/status/2109891758880432545"
     },
     {
       "file": "lp-20.jpg",
       "description": "Sand-colored chart of NOVA candles crossing above a single gold 50-day SMA, with no second average, and the notification 'NOVA crossed above its 50-day SMA'",
       "best_fit": "moving-average alert when price crosses the 50-day SMA",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-13",
+      "permalink": "https://x.com/LevelPing/status/2109930493684683012"
     },
     {
       "file": "lp-21.jpg",
       "description": "Midnight chart of LUMA with an RSI(14) panel, the line dropping through 30 into the shaded zone, and the notification 'LUMA RSI(14) dropped below 30'",
       "best_fit": "RSI alert when 14-day RSI drops below 30",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-12",
+      "used_permalink": "https://x.com/LevelPing/status/2109560465563038061"
     },
     {
       "file": "lp-22.jpg",
       "description": "Charcoal chart of ZENT price above a MACD panel where the MACD line crosses above its signal line, and the notification 'ZENT MACD crossed above its signal line'",
       "best_fit": "MACD alert when the MACD line crosses its signal line",
-      "used": false
+      "used": false,
+      "fb_used": "2026-10-12 fb_promo_3 (avoid on X to keep platforms distinct)"
     },
     {
       "file": "lp-23.jpg",
       "description": "Lilac chart of ACME candles inside Bollinger Bands, the latest wick touching the lower band, and the notification 'ACME touched the lower Bollinger Band'",
       "best_fit": "Bollinger Band alert when price touches the lower band",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-14",
+      "permalink": "https://x.com/LevelPing/status/2110254769583366263"
     },
     {
       "file": "lp-24.jpg",
       "description": "Navy weekly chart of VYRA, 52 candles, the last one piercing a dashed prior 52-week high, and the notification 'VYRA set a new 52-week high'",
       "best_fit": "52-week high alert when price sets a new 52-week high",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-14",
+      "permalink": "https://x.com/LevelPing/status/2110285193252581492"
     },
     {
       "file": "lp-25.jpg",
       "description": "Pine chart of TRVX climbing while a trailing-stop line ratchets along 8% under the high, then a candle tags that line, and the notification 'TRVX hit its trailing stop, 8% below the high'",
       "best_fit": "trailing stop alert held 8% below the high",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-12",
+      "permalink": "https://x.com/LevelPing/status/2109529866257215978"
     },
     {
       "file": "lp-26.jpg",
@@ -200,13 +217,18 @@
       "file": "lp-28.jpg",
       "description": "Warm desk with a phone showing a QBIT chart and the Triggerly card titled 'Why it moved': about 4% below its 52-week high, below its 50-day average, volume above its 20-day average",
       "best_fit": "AI analysis card explaining why a stock moved, shown on a phone",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-12",
+      "used_note": "fb_promo_2 earnings why-it-moved (Facebook wall); reserved so X does not reuse",
+      "platform": "facebook"
     },
     {
       "file": "lp-29.jpg",
       "description": "Cobalt candlestick chart of ZENT rallying through a dashed 73.40 level, a bell at the cross, and the notification 'ZENT crossed above 73.40'",
       "best_fit": "price-level alert when price crosses above a set level",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-15",
+      "permalink": "https://x.com/LevelPing/status/2110587013963407609"
     },
     {
       "file": "lp-30.jpg",
@@ -218,19 +240,25 @@
       "file": "lp-31.jpg",
       "description": "Rose panel with ACME at -4.6% beside an intraday line that starts at the prior close and falls through a -4% mark, bell at the cross, and the line 'ACME is down 4.6% from the prior close'",
       "best_fit": "percent-move alert when price drops versus the prior close",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-17",
+      "permalink": "https://x.com/LevelPing/status/2111309856447607284"
     },
     {
       "file": "lp-32.jpg",
       "description": "Dusk chart of VYRA daily candles with a shaded gap between Friday's close and Monday's lower open, a 9:35 ET clock, and the notification 'VYRA opened 2.9% below the prior close'",
       "best_fit": "opening-gap alert when today's open gaps down from the prior close",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-15",
+      "note_fix": "marked used retroactively; x_promo_3 2026-10-15"
     },
     {
       "file": "lp-33.jpg",
       "description": "Walnut desk with a tablet showing SPCX price above volume bars, one gold bar at 3× a dashed 20-day average, and the notification 'SPCX volume is 3× its 20-day average'",
       "best_fit": "volume spike alert at 3× the 20-day average",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-15",
+      "permalink": "https://x.com/LevelPing/status/2110617651949052348"
     },
     {
       "file": "lp-34.jpg",
@@ -242,7 +270,9 @@
       "file": "lp-35.jpg",
       "description": "Apricot chart of KLMN with the RSI(14) panel on top, the line rising through 70 into the shaded overbought zone, and the notification 'KLMN RSI(14) rose above 70'",
       "best_fit": "RSI alert when 14-day RSI rises above 70",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-16",
+      "permalink": "https://x.com/LevelPing/status/2111015524423373236"
     },
     {
       "file": "lp-36.jpg",
@@ -254,25 +284,147 @@
       "file": "lp-37.jpg",
       "description": "Aqua chart of QBIT candles inside Bollinger Bands, the latest wick touching the upper band, a zoom of the last 10 sessions, and the line 'QBIT touched the upper Bollinger Band'",
       "best_fit": "Bollinger Band alert when price touches the upper band",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-17",
+      "permalink": "https://x.com/LevelPing/status/2111341637955633514"
     },
     {
       "file": "lp-38.jpg",
       "description": "Ice-blue weekly chart of TRVX, 52 candles, the last one piercing a dashed prior 52-week low, and a side panel reading 'TRVX set a new 52-week low'",
       "best_fit": "52-week low alert when price sets a new 52-week low",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-17",
+      "permalink": "https://x.com/LevelPing/status/2111372061692063948"
     },
     {
       "file": "lp-39.jpg",
       "description": "Teal bokeh desk with a phone lock screen at 10:14 and one Triggerly notification, 'ACME hit its trailing stop, 10% below the high'",
       "best_fit": "trailing stop alert held 10% below the high, on a phone lock screen",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-16",
+      "permalink": "https://x.com/LevelPing/status/2110949320929239216",
+      "buffer_post_id": "6ad1a65fa82f34dbe1464986"
     },
     {
       "file": "lp-40.jpg",
       "description": "Linen desk with a phone open to a Telegram chat from Triggerly, the message 'NOVA crossed above 64.00'",
       "best_fit": "Telegram notification of a stock alert on a phone",
-      "used": false
+      "used": true,
+      "used_date": "2026-10-16",
+      "permalink": "https://x.com/LevelPing/status/2110985065882701902"
+    },
+    {
+      "file": "lp-41.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (opening-gap), headline overlay, accent bar. Alt: Morning daily chart with a shaded gap between Friday's close and Monday's open and a 9:35 ET clock, beside the percent change screen",
+      "best_fit": "opening-gap alert: today's open vs the prior close, checked 9:35 ET",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-42.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (volume-spike), headline overlay, accent bar. Alt: Desk monitor with candles over volume bars, one amber bar at 3x the dashed 20-day average, plus the Triggerly alert type picker",
+      "best_fit": "volume spike alert at 2x-10x the 20-day average",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-43.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (rsi), headline overlay, accent bar. Alt: Midnight chart with an RSI(14) panel dropping below 30 and an alert notification, beside the Triggerly alert picker",
+      "best_fit": "14-day RSI alert at custom levels on daily closes",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-44.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (bollinger), headline overlay, accent bar. Alt: Lilac candlestick chart inside Bollinger Bands with the last wick touching the lower band, beside the Triggerly alert picker",
+      "best_fit": "Bollinger Band (20-day, 2 std dev) band-break alert",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-45.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (percent-modes), headline overlay, accent bar. Alt: Rose panel with a stock down 4.6% from the prior close and a bell at the cross, next to the Triggerly percent change screen",
+      "best_fit": "percent-change alert modes (prior close, from set price, gap, daily close)",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-46.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (new-high-low), headline overlay, accent bar. Alt: Navy weekly chart where the last candle pierces the prior 52-week high, next to the Triggerly new high alert screen",
+      "best_fit": "new 52-week (or custom window) high/low alert",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-47.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (telegram), headline overlay, accent bar. Alt: Phone on a linen desk showing a Telegram chat with a Triggerly stock alert, next to the Triggerly watchlist screen",
+      "best_fit": "stock alerts delivered to Telegram via @triggerly_app_bot",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-48.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (ai-why), headline overlay, accent bar. Alt: Warm desk with a phone showing a 'why it moved' card for a stock, next to the Triggerly Alert Analysis screen",
+      "best_fit": "AI Alert Analysis explaining why a stock moved",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-49.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (email), headline overlay, accent bar. Alt: Glowing bell with a price alert branching to Push, Email and Telegram cards, next to a triggered alert screen",
+      "best_fit": "stock alerts by email (also push/Telegram)",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-50.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (checklist), headline overlay, accent bar. Alt: Coral backdrop with a phone showing a Triggerly watchlist with sparklines and bell toggles, next to the home screen",
+      "best_fit": "choosing a free stock alert app (watchlist, no ads)",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-51.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (earnings-prep), headline overlay, accent bar. Alt: Dusk daily chart with a shaded opening gap and a 9:35 ET clock, next to the Triggerly percent change alert screen",
+      "best_fit": "earnings-week alert checklist (gap, % move, volume, trailing); no earnings-date alerts",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-52.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (trailing-stop), headline overlay, accent bar. Alt: Pine chart climbing while a trailing-stop line ratchets 8% under the high until a candle tags it, with the Triggerly alert picker",
+      "best_fit": "trailing stop alert ($ or %) from the high",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-53.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (volume-above), headline overlay, accent bar. Alt: Walnut desk with a tablet showing price over volume bars, one gold bar at 3x average, next to the Triggerly alert picker",
+      "best_fit": "Volume Above alert at a fixed daily volume level",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-54.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (news-brief), headline overlay, accent bar. Alt: Neon candlestick chart with support and resistance zones beside an AI analysis panel, next to the price target and news screen",
+      "best_fit": "Price Target & News: analyst target + 48h news brief",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-55.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (alternative), headline overlay, accent bar. Alt: Slate dashboard of four mini stock charts each with a glowing alert point, next to the Triggerly home screen",
+      "best_fit": "feature overview / comparing stock alert apps",
+      "used": false,
+      "do_not_use": false
+    },
+    {
+      "file": "lp-56.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (alert-hygiene), headline overlay, accent bar. Alt: Illustrated desk with a chart monitor, a 'set alerts!' sticky note and a buzzing phone, next to a triggered alert screen",
+      "best_fit": "alert habits: trigger once, fewer levels, combined conditions",
+      "used": false,
+      "do_not_use": false
     }
-  ]
+  ],
+  "updated_at": "2026-10-18T06:28:42.694808+03:00"
 }
