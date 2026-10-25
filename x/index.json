@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-08",
-  "size": 77,
+  "size": "1200x675 JPEG q88",
   "note": "Synthetic tickers only (SPCX, KLMN, ORBT, NOVA, QBIT, ZENT, LUMA, ACME, TRVX, VYRA...). No real logos, no performance claims. lp-01 is a copy of assets/x-promo-2-1007.jpg. Generator: ../src/run.py (python run.py <ids>) with the venv at /workspace/.venv-img. lp-17 through lp-28 were added 2026-10-12 at the same 1200x675 size.",
   "images": [
     {
@@ -370,64 +370,86 @@
       "file": "lp-45.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (percent-modes), headline overlay, accent bar. Alt: Rose panel with a stock down 4.6% from the prior close and a bell at the cross, next to the Triggerly percent change screen",
       "best_fit": "percent-change alert modes (prior close, from set price, gap, daily close)",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-21T15:50:18+03:00",
+      "used_in": "https://x.com/LevelPing/status/2112889211103715771",
+      "used_by": "https://x.com/LevelPing/status/2112889211103715771"
     },
     {
       "file": "lp-46.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (new-high-low), headline overlay, accent bar. Alt: Navy weekly chart where the last candle pierces the prior 52-week high, next to the Triggerly new high alert screen",
       "best_fit": "new 52-week (or custom window) high/low alert",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-21T18:53:27+03:00",
+      "used_by": "x_promo_2 2026-10-21",
+      "permalink": "https://x.com/LevelPing/status/2112935235746717819"
     },
     {
       "file": "lp-47.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (telegram), headline overlay, accent bar. Alt: Phone on a linen desk showing a Telegram chat with a Triggerly stock alert, next to the Triggerly watchlist screen",
       "best_fit": "stock alerts delivered to Telegram via @triggerly_app_bot",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-21T23:20:06+03:00",
+      "used_by": "x_promo_3 2026-10-21",
+      "permalink": "https://x.com/LevelPing/status/2113002408917766495"
     },
     {
       "file": "lp-48.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (ai-why), headline overlay, accent bar. Alt: Warm desk with a phone showing a 'why it moved' card for a stock, next to the Triggerly Alert Analysis screen",
       "best_fit": "AI Alert Analysis explaining why a stock moved",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-22T15:48:56+03:00",
+      "used_in": "x_promo_1 2026-10-22 https://x.com/LevelPing/status/2113251256097525765"
     },
     {
       "file": "lp-49.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (email), headline overlay, accent bar. Alt: Glowing bell with a price alert branching to Push, Email and Telegram cards, next to a triggered alert screen",
       "best_fit": "stock alerts by email (also push/Telegram)",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-22T18:45:46+03:00",
+      "used_in": "x_promo_2 2026-10-22 https://x.com/LevelPing/status/2113295751119773862"
     },
     {
       "file": "lp-50.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (checklist), headline overlay, accent bar. Alt: Coral backdrop with a phone showing a Triggerly watchlist with sparklines and bell toggles, next to the home screen",
       "best_fit": "choosing a free stock alert app (watchlist, no ads)",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-22T23:20:11+03:00",
+      "used_in": "https://x.com/LevelPing/status/2113364780517839014"
     },
     {
       "file": "lp-51.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (earnings-prep), headline overlay, accent bar. Alt: Dusk daily chart with a shaded opening gap and a 9:35 ET clock, next to the Triggerly percent change alert screen",
       "best_fit": "earnings-week alert checklist (gap, % move, volume, trailing); no earnings-date alerts",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-23T15:47:41+03:00",
+      "used_in": "https://x.com/LevelPing/status/2113613329407070236"
     },
     {
       "file": "lp-52.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (trailing-stop), headline overlay, accent bar. Alt: Pine chart climbing while a trailing-stop line ratchets 8% under the high until a candle tags it, with the Triggerly alert picker",
       "best_fit": "trailing stop alert ($ or %) from the high",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-23T18:48:35+03:00",
+      "used_in": "https://x.com/LevelPing/status/2113658850565841246"
     },
     {
       "file": "lp-53.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (volume-above), headline overlay, accent bar. Alt: Walnut desk with a tablet showing price over volume bars, one gold bar at 3x average, next to the Triggerly alert picker",
       "best_fit": "Volume Above alert at a fixed daily volume level",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-23T23:22:52+03:00",
+      "used_in": "x_promo_3",
+      "permalink": "https://x.com/LevelPing/status/2113727879515148603"
     },
     {
       "file": "lp-54.jpg",
@@ -575,7 +597,133 @@
       "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (ma-reclaim), headline overlay, accent bar. Alt: Sand-colored chart of candles crossing above a single 50-day SMA line, beside the Triggerly SMA alert screen",
       "best_fit": "ma-reclaim",
       "used": false
+    },
+    {
+      "file": "lp-78.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (clock-change), headline overlay, accent bar. Alt: Purple dusk skyline of candlestick towers under a crescent moon with a price alert badge, beside the Triggerly home screen",
+      "best_fit": "clock-change",
+      "used": false
+    },
+    {
+      "file": "lp-79.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (last-reporters), headline overlay, accent bar. Alt: Dark chart with a shaded gap down at the open and a triggered price alert, beside the Triggerly triggered alert screen",
+      "best_fit": "last-reporters",
+      "used": false
+    },
+    {
+      "file": "lp-80.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (quick-chips), headline overlay, accent bar. Alt: Coral backdrop with a speedometer gauge needle at +5.3% and an alert card, beside the Triggerly percent change screen",
+      "best_fit": "quick-chips",
+      "used": false
+    },
+    {
+      "file": "lp-81.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (post-fed-drift), headline overlay, accent bar. Alt: Light chart of green candles stepping up past the prior close with an up 3.4% alert, beside the Triggerly home screen",
+      "best_fit": "post-fed-drift",
+      "used": false
+    },
+    {
+      "file": "lp-82.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (report-high-window), headline overlay, accent bar. Alt: Black and yellow chart breaking out of a sideways range with a starburst at the level, beside the Triggerly new high screen",
+      "best_fit": "report-high-window",
+      "used": false
+    },
+    {
+      "file": "lp-83.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (etf-or-stocks), headline overlay, accent bar. Alt: Slate dashboard of four mini stock charts, each with a glowing alert point, beside the Triggerly price target screen",
+      "best_fit": "etf-or-stocks",
+      "used": false
+    },
+    {
+      "file": "lp-84.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (noise-filter), headline overlay, accent bar. Alt: Dark green volume chart with a tall spike bar and a 2x volume badge, beside the Triggerly combined alert screen",
+      "best_fit": "noise-filter",
+      "used": false
+    },
+    {
+      "file": "lp-85.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (after-report-analysis), headline overlay, accent bar. Alt: Purple chart with an alert panel of five analysis questions, beside the Triggerly alert analysis screen",
+      "best_fit": "after-report-analysis",
+      "used": false
+    },
+    {
+      "file": "lp-86.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (alert-sound), headline overlay, accent bar. Alt: Dark phone lock screen at 10:14 showing a Triggerly price alert notification, beside the triggered alert screen",
+      "best_fit": "alert-sound",
+      "used": false
+    },
+    {
+      "file": "lp-87.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (oversold-bounce), headline overlay, accent bar. Alt: Dark chart of a falling stock with an RSI panel dipping below 30 and an alert card, beside the Triggerly triggered alert screen",
+      "best_fit": "oversold-bounce",
+      "used": false
+    },
+    {
+      "file": "lp-88.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (macd-zero), headline overlay, accent bar. Alt: Dark chart of falling candles with a MACD panel below and alert badges, beside the Triggerly alert picker",
+      "best_fit": "macd-zero",
+      "used": false
+    },
+    {
+      "file": "lp-89.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (trail-dollars-percent), headline overlay, accent bar. Alt: Dark chart with a red trailing-stop line stepping up under rising green prices until it is tagged, beside the triggered alert screen",
+      "best_fit": "trail-dollars-percent",
+      "used": false
+    },
+    {
+      "file": "lp-90.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (lower-band), headline overlay, accent bar. Alt: Lavender chart of candles sliding through the lower Bollinger Band with an alert label, beside the Triggerly alert analysis screen",
+      "best_fit": "lower-band",
+      "used": false
+    },
+    {
+      "file": "lp-91.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (email-analysis), headline overlay, accent bar. Alt: Calm desk with a notebook, a plant and a tablet showing a stock alert, beside the Triggerly alert analysis screen",
+      "best_fit": "email-analysis",
+      "used": false
+    },
+    {
+      "file": "lp-92.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (ping-again), headline overlay, accent bar. Alt: Dark green chart of candles climbing through a dashed level with a crossed-above alert, beside the Triggerly price target screen",
+      "best_fit": "ping-again",
+      "used": false
+    },
+    {
+      "file": "lp-93.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (sma-line-target), headline overlay, accent bar. Alt: Purple candlestick chart crossing a gold moving-average line with a crossed-above-SMA badge, beside the Triggerly SMA alert screen",
+      "best_fit": "sma-line-target",
+      "used": false
+    },
+    {
+      "file": "lp-94.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (season-review), headline overlay, accent bar. Alt: Illustrated desk with a chart monitor, a sticky note and a buzzing phone, beside the Triggerly alert analysis screen",
+      "best_fit": "season-review",
+      "used": false
+    },
+    {
+      "file": "lp-95.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (season-surprise), headline overlay, accent bar. Alt: Red and white chart of a sharp drop with a -4.6% card, beside the Triggerly price target screen",
+      "best_fit": "season-surprise",
+      "used": false
+    },
+    {
+      "file": "lp-96.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (new-low-watch), headline overlay, accent bar. Alt: Ice-blue chart sliding to a new 52-week low with a 14.28 price card, beside the Triggerly new high and low screen",
+      "best_fit": "new-low-watch",
+      "used": false
+    },
+    {
+      "file": "lp-97.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (invite-slots), headline overlay, accent bar. Alt: Coral backdrop with a phone showing a Triggerly watchlist of stocks, beside the percent change screen",
+      "best_fit": "invite-slots",
+      "used": false
+    },
+    {
+      "file": "lp-98.jpg",
+      "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (untried-type), headline overlay, accent bar. Alt: Green backdrop with a smartwatch showing a stock alert bell and sparkline, beside the Triggerly alert picker",
+      "best_fit": "untried-type",
+      "used": false
     }
   ],
-  "updated_at": "2026-10-21T08:27:44+03:00"
+  "updated_at": "2026-10-24T08:34:08+03:00"
 }
