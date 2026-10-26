@@ -455,40 +455,58 @@
       "file": "lp-54.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (news-brief), headline overlay, accent bar. Alt: Neon candlestick chart with support and resistance zones beside an AI analysis panel, next to the price target and news screen",
       "best_fit": "Price Target & News: analyst target + 48h news brief",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-24T15:51:13+03:00",
+      "used_in": "x_promo_1",
+      "permalink": "https://x.com/LevelPing/status/2113976600349814801"
     },
     {
       "file": "lp-55.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (alternative), headline overlay, accent bar. Alt: Slate dashboard of four mini stock charts each with a glowing alert point, next to the Triggerly home screen",
       "best_fit": "feature overview / comparing stock alert apps",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-24T18:46:32+03:00",
+      "used_in": "x_promo_2",
+      "permalink": "https://x.com/LevelPing/status/2114020677753696671"
     },
     {
       "file": "lp-56.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene from lp source image plus a Triggerly phone screen (alert-hygiene), headline overlay, accent bar. Alt: Illustrated desk with a chart monitor, a 'set alerts!' sticky note and a buzzing phone, next to a triggered alert screen",
       "best_fit": "alert habits: trigger once, fewer levels, combined conditions",
-      "used": false,
-      "do_not_use": false
+      "used": true,
+      "do_not_use": false,
+      "used_at": "2026-10-24T23:23:11+03:00",
+      "used_in": "x_promo_3",
+      "permalink": "https://x.com/LevelPing/status/2114090345206059057"
     },
     {
       "file": "lp-57.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (bigtech-setup), headline overlay, accent bar. Alt: Dusk skyline built from candlesticks reflected in water, beside a Triggerly percent change alert screen",
       "best_fit": "bigtech-setup",
-      "used": false
+      "used": true,
+      "used_at": "2026-10-25T15:45:37+02:00",
+      "used_by": "x_promo_1",
+      "permalink": "https://x.com/LevelPing/status/2114352643652944229"
     },
     {
       "file": "lp-58.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (telegram-setup), headline overlay, accent bar. Alt: Glowing bell with a stock alert branching to Push, Email and Telegram cards, beside the Triggerly watchlist screen",
       "best_fit": "telegram-setup",
-      "used": false
+      "used": true,
+      "used_at": "2026-10-25T18:50:48+02:00",
+      "used_by": "x_promo_2",
+      "permalink": "https://x.com/LevelPing/status/2114399288432242936"
     },
     {
       "file": "lp-59.jpg",
       "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (first-alert), headline overlay, accent bar. Alt: Green backdrop with a smartwatch showing a stock alert bell and sparkline, beside the Triggerly price target screen",
       "best_fit": "first-alert",
-      "used": false
+      "used": true,
+      "used_at": "2026-10-25T23:20:21+02:00",
+      "used_by": "x_promo_3 2026-10-25",
+      "post_url": "https://x.com/LevelPing/status/2114467085929627748"
     },
     {
       "file": "lp-60.jpg",
@@ -723,7 +741,133 @@
       "description": "Blurred-chart composite (1200x675): sharp chart scene plus a Triggerly phone screen (untried-type), headline overlay, accent bar. Alt: Green backdrop with a smartwatch showing a stock alert bell and sparkline, beside the Triggerly alert picker",
       "best_fit": "untried-type",
       "used": false
+    },
+    {
+      "file": "lp-99.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (eight-weeks-left), headline pill, accent bar. Alt: Pine-green chart of a stock climbing while a trailing-stop line ratchets 8% under the high, beside the Triggerly price target screen",
+      "best_fit": "eight-weeks-left",
+      "used": false
+    },
+    {
+      "file": "lp-100.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (harvest-season), headline pill, accent bar. Alt: Ice-blue weekly chart where the last candle pierces a prior 52-week low, beside the Triggerly percent change screen",
+      "best_fit": "harvest-season",
+      "used": false
+    },
+    {
+      "file": "lp-101.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (year-end-five), headline pill, accent bar. Alt: Slate dashboard of four mini stock charts with glowing alert points, beside the Triggerly alert types list",
+      "best_fit": "year-end-five",
+      "used": false
+    },
+    {
+      "file": "lp-102.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (cpi-gap), headline pill, accent bar. Alt: Morning daily chart with a shaded opening gap between Friday's close and Monday's open and a 9:35 ET clock, beside the Triggerly alert types list",
+      "best_fit": "cpi-gap",
+      "used": false
+    },
+    {
+      "file": "lp-103.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (broker-or-app), headline pill, accent bar. Alt: Navy scene with a glowing bell branching to Push, Email and Telegram cards, beside the Triggerly combined alert screen",
+      "best_fit": "broker-or-app",
+      "used": false
+    },
+    {
+      "file": "lp-104.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (cut-or-trim), headline pill, accent bar. Alt: Warm clay chart falling through a marked price level with a bell under the cross, beside the Triggerly triggered alert screen",
+      "best_fit": "cut-or-trim",
+      "used": false
+    },
+    {
+      "file": "lp-105.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (retail-reports), headline pill, accent bar. Alt: Rose panel with a stock at -4.6% and an intraday line falling through a -4% mark, beside the Triggerly price targets and news screen",
+      "best_fit": "retail-reports",
+      "used": false
+    },
+    {
+      "file": "lp-106.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (gap-or-intraday), headline pill, accent bar. Alt: Dusk daily chart with a shaded gap between Friday's close and a lower Monday open and a 9:35 ET clock, beside the Triggerly home screen",
+      "best_fit": "gap-or-intraday",
+      "used": false
+    },
+    {
+      "file": "lp-107.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (retail-watch), headline pill, accent bar. Alt: Dark watchlist heatmap of red and green tiles with one tile outlined and a bell badge, beside the Triggerly price targets and news screen",
+      "best_fit": "retail-watch",
+      "used": false
+    },
+    {
+      "file": "lp-108.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (veterans-day), headline pill, accent bar. Alt: Dusk skyline of candlestick buildings with lit windows reflected in water, beside the Triggerly triggered alert screen",
+      "best_fit": "veterans-day",
+      "used": false
+    },
+    {
+      "file": "lp-109.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (rsi-or-band), headline pill, accent bar. Alt: Apricot chart with an RSI(14) panel rising through 70 into the shaded zone, beside the Triggerly combined alert screen",
+      "best_fit": "rsi-or-band",
+      "used": false
+    },
+    {
+      "file": "lp-110.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (which-channel), headline pill, accent bar. Alt: Linen desk with a phone open to a Telegram chat showing a price alert message, beside the Triggerly triggered alert screen",
+      "best_fit": "which-channel",
+      "used": false
+    },
+    {
+      "file": "lp-111.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (santa-watchlist), headline pill, accent bar. Alt: Navy weekly chart where the last candle pierces a dashed prior 52-week high, beside the Triggerly home screen",
+      "best_fit": "santa-watchlist",
+      "used": false
+    },
+    {
+      "file": "lp-112.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (sma-or-ema), headline pill, accent bar. Alt: Pine chart of candles crossing below a single amber 200-day SMA line, beside the Triggerly alert types list",
+      "best_fit": "sma-or-ema",
+      "used": false
+    },
+    {
+      "file": "lp-113.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (santa-believer), headline pill, accent bar. Alt: Flat illustrated desk scene with a monitor chart, a set alerts sticky note and a buzzing phone, beside the Triggerly percent change screen",
+      "best_fit": "santa-believer",
+      "used": false
+    },
+    {
+      "file": "lp-114.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (friday-13th), headline pill, accent bar. Alt: Combined-alert scene of price falling through a level and RSI dropping below 30 joined by an AND chip, beside the Triggerly triggered alert screen",
+      "best_fit": "friday-13th",
+      "used": false
+    },
+    {
+      "file": "lp-115.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (app-in-one-post), headline pill, accent bar. Alt: Coral gradient with a tilted phone showing a watchlist with sparklines and bell toggles, beside the Triggerly alert types list",
+      "best_fit": "app-in-one-post",
+      "used": false
+    },
+    {
+      "file": "lp-116.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (holiday-volume), headline pill, accent bar. Alt: Walnut desk with a tablet showing a gold volume bar at 3x a dashed 20-day average, beside the Triggerly triggered alert screen",
+      "best_fit": "holiday-volume",
+      "used": false
+    },
+    {
+      "file": "lp-117.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (week-recap-analysis), headline pill, accent bar. Alt: Warm desk with a phone showing a stock chart and a Why it moved card, beside the Triggerly triggered alert screen",
+      "best_fit": "week-recap-analysis",
+      "used": false
+    },
+    {
+      "file": "lp-118.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (buy-stop-or-new-low), headline pill, accent bar. Alt: Glacier chart of a falling stock with a trailing buy-stop line ratcheting 5% above the low until price crosses up, beside the Triggerly price target screen",
+      "best_fit": "buy-stop-or-new-low",
+      "used": false
+    },
+    {
+      "file": "lp-119.jpg",
+      "description": "Vivid gradient composite (1200x675): tilted chart card plus a Triggerly phone screen (december-plan), headline pill, accent bar. Alt: Cobalt candlestick chart rallying through a dashed level with a bell at the cross, beside the Triggerly home screen",
+      "best_fit": "december-plan",
+      "used": false
     }
   ],
-  "updated_at": "2026-10-24T08:34:08+03:00"
+  "updated_at": "2026-10-26T08:35:52+02:00"
 }
